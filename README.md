@@ -51,6 +51,10 @@ Redmi Note 13 4G was announced and released in January 2024.
 - [ChicKernel](https://github.com/chickendrop89/device_xiaomi_gemstones-kernel)
 - [Zephyr Kernel](https://github.com/topnotchfreaks/kernel_msm-5.15/releases/tag/ZEPHYR-1.0)
 
+## Telegram Groups
+- [Redmi Note 13 4G Updates](https://t.me/RedmiNote134GUpdates)
+- [Redmi Note 13 4G Community](https://t.me/RedmiNote134GCommunity)
+- [Redmi Note 13 4G Photography](https://t.me/RedmiNote134GPhotography)
 
 ## Forums
-- [XDA](https://xdaforums.com/f/xiaomi-redmi-note-13-4g-sapphire.12889/)
+- [XDA Forum](https://xdaforums.com/f/xiaomi-redmi-note-13-4g-sapphire.12889/)
