@@ -40,6 +40,7 @@ Redmi Note 13 4G was announced and released in January 2024.
 
 ## Custom Recovery
 - [OrangeFox](https://orangefox.download/device/65a5a3287ac2a93129dc9543)
+- [Pitch Black Recovery](https://xdaforums.com/t/recovery-sapphire-sapphiren-unofficial-pitch-black-recovery-project-v4-x.4674302/)
 
 ## Custom ROM
 - [Xiaomi.eu](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/HyperOS-STABLE-RELEASES/HyperOS2.0/)
@@ -48,6 +49,7 @@ Redmi Note 13 4G was announced and released in January 2024.
 
 ## Custom Kernel
 - [ChicKernel](https://github.com/chickendrop89/device_xiaomi_gemstones-kernel)
+- [Zephyr Kernel](https://github.com/topnotchfreaks/kernel_msm-5.15/releases/tag/ZEPHYR-1.0)
 
 
 ## Forums
