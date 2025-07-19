@@ -4,7 +4,7 @@
 
 [![Device](https://img.shields.io/badge/Device-Redmi%20Note%2013%204G-blue?style=flat-square)](https://github.com/fynks/redmi-note-13)
 [![Android](https://img.shields.io/badge/Android-15.0-green?style=flat-square)](https://developer.android.com/)
-[![MIUI](https://img.shields.io/badge/HyperOS-2-orange?style=flat-square)](https://miui.com/)
+[![MIUI](https://img.shields.io/badge/HyperOS-V2.0-orange?style=flat-square)](https://miui.com/)
 [![SoC](https://img.shields.io/badge/SoC-Snapdragon%20685-red?style=flat-square)](https://www.qualcomm.com/)
 
 **A comprehensive collection of resources, custom ROMs, kernels, and tools for the Xiaomi Redmi Note 13 4G**
